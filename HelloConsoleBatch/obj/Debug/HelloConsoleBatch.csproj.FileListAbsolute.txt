@@ -1,0 +1,7 @@
+C:\Users\AliQ\Documents\githubek\Lab01\HelloConsoleBatch\HelloConsoleBatch\bin\Debug\HelloConsoleBatch.exe.config
+C:\Users\AliQ\Documents\githubek\Lab01\HelloConsoleBatch\HelloConsoleBatch\bin\Debug\HelloConsoleBatch.exe
+C:\Users\AliQ\Documents\githubek\Lab01\HelloConsoleBatch\HelloConsoleBatch\bin\Debug\HelloConsoleBatch.pdb
+C:\Users\AliQ\Documents\githubek\Lab01\HelloConsoleBatch\HelloConsoleBatch\obj\Debug\HelloConsoleBatch.csprojAssemblyReference.cache
+C:\Users\AliQ\Documents\githubek\Lab01\HelloConsoleBatch\HelloConsoleBatch\obj\Debug\HelloConsoleBatch.csproj.CoreCompileInputs.cache
+C:\Users\AliQ\Documents\githubek\Lab01\HelloConsoleBatch\HelloConsoleBatch\obj\Debug\HelloConsoleBatch.exe
+C:\Users\AliQ\Documents\githubek\Lab01\HelloConsoleBatch\HelloConsoleBatch\obj\Debug\HelloConsoleBatch.pdb
